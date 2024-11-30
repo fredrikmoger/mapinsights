@@ -5,7 +5,7 @@ coverImage: '/assets/blog/gis-consultant/cover.jpg'
 date: '2024-10-09T12:00:00.000Z'
 author:
   name: 'Map Insights Team'
-  picture: '/assets/blog/authors/map-insights.png'
+  picture: '/assets/logo-symbol.png'
 ogImage:
   url: '/assets/blog/gis-consultant/cover.jpg'
 ---

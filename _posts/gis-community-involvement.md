@@ -4,8 +4,8 @@ excerpt: 'Explore how GIS can empower community involvement by making informatio
 coverImage: '/assets/blog/gis-community-involvement/cover.png'
 date: '2024-08-09T12:00:00.000Z'
 author:
-  name: Vegard J. Løwe
-  picture: '/assets/blog/authors/vegard.jpeg'
+  name: 'Map Insights Team'
+  picture: '/assets/logo-symbol.png'
 ogImage:
   url: '/assets/blog/gis-community-involvement/cover.png'
 ---
